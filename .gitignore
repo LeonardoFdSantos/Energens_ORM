@@ -1,5 +1,6 @@
-BancosDeDados/*
-.idea/*
+BancosDeDados/
+.idea/
+!/.idea/
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -9,3 +10,4 @@ BancosDeDados/*
 # Editor-based HTTP Client requests
 /httpRequests/
 __pycache__/
+!/.idea/Energens_ORM.iml
